@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonModule.onec_Коннектор" id="a371ecc8-8e11-447f-893a-e6ae40f8410d" configVersion="c47288624b087361366ceb549b65c28d92677951"/>
+		<Metadata name="CommonModule.onec_Коннектор.Module" id="a371ecc8-8e11-447f-893a-e6ae40f8410d.0" configVersion="21d34b9757bf4ffdd9026e311a030a4159a0ad06"/>
+		<Metadata name="Configuration.OneCiTemplates" id="664201d1-3ed3-4494-88db-da1fe3f84c49" configVersion="bc2037db00e5fe88a95a6a479932d6aa830504a7"/>
+		<Metadata name="DataProcessor.onec_РаботаСДанными" id="4395ceaa-f65b-4cdf-8a70-882c4151b7e0" configVersion="827174876443d46b7cfc8a11dacc35fbe78aea77"/>
+		<Metadata name="DataProcessor.onec_РаботаСДанными.Form.Форма" id="a82fcad8-4968-4e83-ba30-d8edba05698d" configVersion="53c12570fd7376f88467b6860d5c015a02e47a9f"/>
+		<Metadata name="DataProcessor.onec_РаботаСДанными.Form.Форма.Form" id="a82fcad8-4968-4e83-ba30-d8edba05698d.0" configVersion="fb42ee73771105652d602f2be8eaf31f0ca97f31"/>
+		<Metadata name="DataProcessor.onec_РаботаСФайлами" id="b6222308-a22a-45e7-b1e6-dbb403890fb7" configVersion="8523e8972f7a869c829d20938fb63bd251a00505"/>
+		<Metadata name="DataProcessor.onec_РаботаСФайлами.Form.Форма" id="e4df0e3a-7785-404e-b90d-ce707dd4e84f" configVersion="026e7f8348f33b632d39bfb6973f824cbab92804"/>
+		<Metadata name="DataProcessor.onec_РаботаСФайлами.Form.Форма.Form" id="e4df0e3a-7785-404e-b90d-ce707dd4e84f.0" configVersion="3ff1c99fc949870383b19255e49d97e2b33fd6a5"/>
+		<Metadata name="Language.Русский" id="523f7cdc-cfe8-44c8-97d4-dd52db0cbee2" configVersion="e5ba6dbf4ef6701ed8ce93fa79a991c1a7b29e04"/>
+		<Metadata name="Role.onec_ОсновнаяРоль" id="3edf4e5c-cea8-41e6-9903-0431f0aca646" configVersion="759c1d4346ca26956718d92172757b0a54aa7121"/>
+		<Metadata name="Subsystem.onec_ШаблоныРазработчика" id="17a84fb8-0088-4c9f-8df2-d410839d3e04" configVersion="db97538809bc4aed3264d16b4301f1bea4bb50b2"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
